@@ -4,7 +4,7 @@ This document contains my findings from the **Covenant** audit contest on CodeAr
 Each issue includes context, impact, and proposed mitigations.
 
 **Platform:** Code4rena  
-**Contest:** [Sequence](https://code4rena.com/audits/2025-10-sequence)  
+**Contest:** [Covenant]([https://code4rena.com/audits/2025-10-sequence](https://code4rena.com/audits/2025-10-covenant)  
 **Dates:** Oct 22, 2025 - Nov 03, 2025   
 **Role:** Warden  
 **Findings:** 5 Lows
