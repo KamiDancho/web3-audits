@@ -9,6 +9,16 @@ Each issue includes context, impact, and proposed mitigations.
 **Role:** Warden  
 **Findings:** 5 Lows
 
+## Summary Table
+
+| ID | Title | Severity |
+|----|-------|----------|
+| Low-01 | Missing Validation for Self-Transfer in `redeem()` | Low |
+| Low-02 | Unnecessary State Write and Event Emission in `setDefaultFee` | Low |
+| Low-03 | Zero Address Allowed for Pause Operator Disables Emergency Controls | Low |
+| Low-04 | Legacy Pause Operator Retains Control After Ownership Transfer | Low |
+| Low-05 | Protocol Fees Become Inaccessible While Market Is Paused | Low |
+
 ---
 
 ---
