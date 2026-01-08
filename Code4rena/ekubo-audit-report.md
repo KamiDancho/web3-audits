@@ -9,6 +9,15 @@ Each issue includes context, impact, and proposed mitigations.
 **Role:** Warden  
 **Findings:** 4 Lows  
 
+## Summary Table
+
+| ID | Title | Severity |
+|----|-------|----------|
+| Low-01 | `withdrawAndRoll` Permanently Retains 1 Wei of Each Token | Low |
+| Low-02 | `forward()` Allows Calldata Underflow Leading to Out-of-Gas Revert | Low |
+| Low-03 | Zero-Liquidity Deposits Are Not Explicitly Rejected | Low |
+| Low-04 | Fees Are Silently Dropped When Pool Liquidity Is Zero | Low |
+
 ---
 
 # [L-01] `withdrawAndRoll` Permanently Retains 1 Wei of Each Token
