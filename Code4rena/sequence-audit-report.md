@@ -9,6 +9,14 @@ Each issue includes context, impact, and proposed mitigations.
 **Role:** Warden  
 **Findings:** 2 Lows
 
+## Summary Table
+
+| ID | Title | Severity |
+|----|-------|----------|
+| Low-01 | Delegatecall to External Multicall3 Without Verification Weakens Router Trust Boundary | Low |
+| Low-02 | Fee Commitments Can Be Bypassed by Setting `feeCollector = address(0)` | Low |
+
+
 ---
 
 ---
